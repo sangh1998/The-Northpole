@@ -7,6 +7,9 @@
     text-decoration: none;
     list-style: none;
 }
+input{
+    color: white;
+}
 
 :root{
     --main-font:Oswald;
